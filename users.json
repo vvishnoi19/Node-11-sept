@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Francesco",
+    "last_name": "Wegener",
+    "email": "fwegener0@mapy.cz",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Saleem",
+    "last_name": "Marquiss",
+    "email": "smarquiss1@foxnews.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Sergei",
+    "last_name": "Anwell",
+    "email": "sanwell2@ocn.ne.jp",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Matthaeus",
+    "last_name": "Strettle",
+    "email": "mstrettle3@illinois.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Cindy",
+    "last_name": "Overy",
+    "email": "covery4@posterous.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Hayyim",
+    "last_name": "Delve",
+    "email": "hdelve5@de.vu",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Jaclyn",
+    "last_name": "Sworn",
+    "email": "jsworn6@freewebs.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Nollie",
+    "last_name": "Grafton-Herbert",
+    "email": "ngraftonherbert7@dmoz.org",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Xavier",
+    "last_name": "Odhams",
+    "email": "xodhams8@xing.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Miner",
+    "last_name": "McGibbon",
+    "email": "mmcgibbon9@cbc.ca",
+    "gender": "Male"
+  }
+]
