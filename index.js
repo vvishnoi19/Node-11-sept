@@ -4,7 +4,7 @@ const user=require("./routes/user")
 
 app.use(user);
 
-app.listen(3000,(err)=>{
+app.listen(4000,(err)=>{
     if(err)
     {
         console.log(err);
